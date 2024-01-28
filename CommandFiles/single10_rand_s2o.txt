@@ -1,0 +1,500 @@
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1591004455
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 974841354
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1354730558
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 745412086
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 998918099
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1008562396
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1776777800
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 278098034
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1337216346
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1849865552
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1548383865
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 667084977
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1118873556
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1751838280
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 900807859
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1067264396
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1557635446
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1102933943
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 650861206
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 456743169
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 207054202
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1219268289
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1064264531
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 12689659
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 15631707
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 461104934
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 2142342755
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 863157137
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1936167726
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1610669750
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 103516944
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 709058826
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 573326725
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 9357385
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 303501461
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 582815396
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 286953246
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1278710387
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1018966238
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1783962220
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1891854651
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 88853701
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 2117594116
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 312455984
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 183889791
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 863377224
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 2142201203
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 666718414
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 1177836606
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single10/10_10.txt
+pathLength = 400
+randomSeed = 789729804
+newUser
+end
+

@@ -1,0 +1,500 @@
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 250779342
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 893537168
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 997595
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 413892728
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1052665859
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1091839280
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 896420094
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1906388556
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 887019519
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 653272484
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 990255740
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 780582160
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 53054552
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 327832678
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 267563918
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1822809159
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1285451889
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 98087836
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 604225400
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 722046151
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1157008112
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1702306440
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 385754345
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1825343188
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 886265109
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1088664352
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1669553047
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 2062938218
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1661010231
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 695645069
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1784624405
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 266496267
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1145215597
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1903492866
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 2122403815
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 387930134
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 2040496171
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 2073757161
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1756039767
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1061391734
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1434425746
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 2130723392
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1426475334
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 856909374
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 195181733
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 843157593
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1425289671
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 96612859
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 1193179022
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Single5/5_5.txt
+pathLength = 400
+randomSeed = 856542033
+newUser
+end
+

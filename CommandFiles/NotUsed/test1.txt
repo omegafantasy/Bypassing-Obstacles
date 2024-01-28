@@ -1,0 +1,20 @@
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 722759953
+newUser
+randomSeed = 1757810428
+newUser
+randomSeed = 138692088
+newUser
+randomSeed = 840685478
+newUser
+randomSeed = 217979692
+newUser
+randomSeed = 1817494654
+newUser
+end
+

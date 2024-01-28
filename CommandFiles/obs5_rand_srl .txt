@@ -1,0 +1,500 @@
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1196008064
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1460110341
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1915197707
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 941724686
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1476673109
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 668659143
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 896722259
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1169054825
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1183395595
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 383045178
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1417534230
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 529252605
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1781050890
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1187270950
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 31603526
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 866040364
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 747068469
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 2048276613
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1395842478
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 79642449
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 111315139
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1544833979
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1788523407
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 101766982
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1103042308
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1914222328
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 784461298
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 411392545
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1605341901
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 951344705
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 878225930
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 2094320082
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 662773990
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1901955604
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 346189553
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 120949463
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1881010871
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1947584781
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1063762088
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 637222463
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 924046744
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 491041235
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 331302038
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 2084873141
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 815082158
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 197399728
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1323443567
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 1943875150
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 302949195
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs5/5_5.txt
+pathLength = 400
+randomSeed = 905375962
+newUser
+end
+

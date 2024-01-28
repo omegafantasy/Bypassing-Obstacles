@@ -1,0 +1,120 @@
+redirector = S2C
+resetter = MR2C
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_four_obstacles.txt
+pathLength = 10
+randomSeed = 842433979
+newUser
+end
+
+redirector = S2C
+resetter = MR2C
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_four_obstacles.txt
+pathLength = 10
+randomSeed = 1059917409
+newUser
+end
+
+redirector =  S2O
+resetter =  TwoOneTurn
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_four_obstacles.txt
+pathLength = 10
+randomSeed = 1205298393
+newUser
+end
+
+redirector =  S2O
+resetter =  TwoOneTurn
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_four_obstacles.txt
+pathLength = 10
+randomSeed = 498103861
+newUser
+end
+
+redirector = S2C
+resetter = MR2C
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_no_obstacle.txt
+pathLength = 10
+randomSeed = 1811211997
+newUser
+end
+
+redirector = S2C
+resetter = MR2C
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_no_obstacle.txt
+pathLength = 10
+randomSeed = 2099377074
+newUser
+end
+
+redirector =  S2O
+resetter =  TwoOneTurn
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_no_obstacle.txt
+pathLength = 10
+randomSeed = 7290066
+newUser
+end
+
+redirector =  S2O
+resetter =  TwoOneTurn
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_no_obstacle.txt
+pathLength = 10
+randomSeed = 2094207585
+newUser
+end
+
+redirector = S2C
+resetter = MR2C
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_one_obstacle.txt
+pathLength = 10
+randomSeed = 42208857
+newUser
+end
+
+redirector = S2C
+resetter = MR2C
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_one_obstacle.txt
+pathLength = 10
+randomSeed = 183467464
+newUser
+end
+
+redirector =  S2O
+resetter =  TwoOneTurn
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_one_obstacle.txt
+pathLength = 10
+randomSeed = 556762575
+newUser
+end
+
+redirector =  S2O
+resetter =  TwoOneTurn
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/SingleSquare/square_one_obstacle.txt
+pathLength = 10
+randomSeed = 1771819829
+newUser
+end
+

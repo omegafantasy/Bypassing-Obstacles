@@ -1,0 +1,3000 @@
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1626004050
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2030124151
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1050442517
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1468817051
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 144707750
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 191273080
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 145697462
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2122789108
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1416782206
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1781808404
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1157100879
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2004590380
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 55538583
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 345424639
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 160312629
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1876972090
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1009198680
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 81865834
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1926741326
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 806862436
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1958048578
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1736600954
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1739260176
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1228226889
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 613256479
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1191053163
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 303294498
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 260060978
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1486335745
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 703507789
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1685839588
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 914446209
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1533579535
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 507131667
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 969844228
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 899460816
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 989299046
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 496018995
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 668031688
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1771339868
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 46564370
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1297088960
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1580320606
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1816342124
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 874111723
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 508757961
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 786110656
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1328655025
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2139030330
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1597258176
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1047028389
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1829630664
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 856812756
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1062444478
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2022679210
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2036886743
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 290863975
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1969699275
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 855560572
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1101138234
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2035462229
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2033120131
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 636453363
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 713274417
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 95968816
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 242654670
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 471010845
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1695890563
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1523064058
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1408335460
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 887673044
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 513179685
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1561317793
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 155401458
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 760298066
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 660959618
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 156280348
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2070401699
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 354115166
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 104498518
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 404942507
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1122123120
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 268514295
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2036561216
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1803963047
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2003692571
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 57633453
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 471135057
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 631936104
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1080441132
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 608596841
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1167083418
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1787942070
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1714377101
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1883361286
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 160927886
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 660635597
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 867046189
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1720373308
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 631457053
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 37747116
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1237703740
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1953074614
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 730694870
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 709585132
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 533848704
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 268312871
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 701411298
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 302146412
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1361719592
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1880606395
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 367945923
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1615584109
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 751062054
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 696195727
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 913339109
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1764605836
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 747375794
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1056795017
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 239759892
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 185021217
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2147359435
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1063954459
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 442622926
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 799738619
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1868073273
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 872721262
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1994424339
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 419523819
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 599370180
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 324021
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1436717806
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 350028391
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1870141760
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 66751402
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1314722414
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1316532153
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1685303072
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1326976084
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1270114343
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1735379700
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1503705802
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 168988645
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1417700159
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1347318384
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 240650918
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1698982956
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1036880016
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1018181374
+newUser
+end
+
+redirector = S2C
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 970022177
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 543805697
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2060743450
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1957734819
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1480613416
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 446435836
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 37871328
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 173749281
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1510451688
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2078439898
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 988995506
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1808611089
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 421372179
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 281887479
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1850259879
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1361395571
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 443888589
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 17917532
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1892925996
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 684310652
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1528956960
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1744290603
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 79302764
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1567883357
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1934164321
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 651863839
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 828799062
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1978370790
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1793737947
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1242788189
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 559087701
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 169090317
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1983324893
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 976242965
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1596985289
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 55564483
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 87064218
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1626466634
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1016898622
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1423705924
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 28880074
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1140973133
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1953564112
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1754346821
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 337980578
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1608986901
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1314007521
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1221818323
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 466212413
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 56304588
+newUser
+end
+
+redirector = S2O
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 903429795
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 222733386
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1953540607
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 352569364
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1636708061
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1373215221
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 464502933
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 492860093
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 23570498
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 828749577
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1765120421
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 206984185
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 527494981
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 267663499
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1519352197
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 819905189
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1972769843
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1592612861
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 832385837
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1794695396
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1274331353
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 964905602
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1148502557
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 469220072
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 655430578
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 387983827
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1938210138
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 472439590
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1229902779
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 325177420
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1485339965
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1754464386
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1512158377
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1737433359
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 339358394
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 336354315
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 363033357
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1630755529
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1487018551
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 223770068
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1738545197
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1741687772
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1602896136
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 188149045
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1806069150
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1969379536
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 613478152
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1685900613
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 234994624
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1665559036
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1783700705
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1868878307
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 389432486
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 819000664
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 929456882
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2086007840
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1221714476
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1484320535
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1844622433
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1248724234
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1582488730
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2139546990
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1410440961
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1845876725
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1490893259
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 10656035
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 842309455
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 937545269
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 2075788752
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1182997882
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 456871832
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 342014314
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 105594310
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 608615769
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 56150199
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1680127228
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1509493113
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 960353512
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 810634569
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 833534689
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1921989322
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 252309525
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 237444966
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1711827390
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 688960362
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1763945305
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1365031900
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 693157713
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 807976477
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 400834201
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1262123486
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1026196469
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1933616743
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 238294317
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 788764985
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1746481854
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 331246811
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1904503058
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 844739433
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1795413115
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obs10/10_10.txt
+pathLength = 400
+randomSeed = 1127070081
+newUser
+end
+

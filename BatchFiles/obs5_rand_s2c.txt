@@ -1,0 +1,8 @@
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Obs5/
+trialsCount = 50
+redirectorSet = S2C
+resetterSet = SFR2G

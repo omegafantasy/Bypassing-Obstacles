@@ -1,0 +1,280 @@
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1605644244
+newUser
+randomSeed = 2073611741
+newUser
+randomSeed = 97760686
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 650521909
+newUser
+randomSeed = 2069036906
+newUser
+randomSeed = 1956957135
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 960469193
+newUser
+randomSeed = 1800220066
+newUser
+randomSeed = 707920275
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 274948655
+newUser
+randomSeed = 1246643231
+newUser
+randomSeed = 856728574
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1168361779
+newUser
+randomSeed = 1365860003
+newUser
+randomSeed = 1968703306
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1193931658
+newUser
+randomSeed = 447107152
+newUser
+randomSeed = 460784716
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1879649508
+newUser
+randomSeed = 311718123
+newUser
+randomSeed = 1542481875
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1608611975
+newUser
+randomSeed = 840381790
+newUser
+randomSeed = 1114866166
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 643541927
+newUser
+randomSeed = 1019677579
+newUser
+randomSeed = 948812171
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 230182451
+newUser
+randomSeed = 454397605
+newUser
+randomSeed = 1291937024
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 73168662
+newUser
+randomSeed = 1786006872
+newUser
+randomSeed = 583325471
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 40927562
+newUser
+randomSeed = 954714182
+newUser
+randomSeed = 1234542181
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1116205666
+newUser
+randomSeed = 246872041
+newUser
+randomSeed = 817402008
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1296594991
+newUser
+randomSeed = 539836098
+newUser
+randomSeed = 1055676314
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 662614967
+newUser
+randomSeed = 1976890238
+newUser
+randomSeed = 941098846
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 250446184
+newUser
+randomSeed = 1823629459
+newUser
+randomSeed = 796574940
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1779711174
+newUser
+randomSeed = 1697178214
+newUser
+randomSeed = 293680087
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1171024114
+newUser
+randomSeed = 225228816
+newUser
+randomSeed = 453936330
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1072084988
+newUser
+randomSeed = 2144515916
+newUser
+randomSeed = 1233229951
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Obstacle2/obstacle2.txt
+pathLength = 400
+randomSeed = 1130378167
+newUser
+randomSeed = 6979982
+newUser
+randomSeed = 1049359327
+newUser
+end
+

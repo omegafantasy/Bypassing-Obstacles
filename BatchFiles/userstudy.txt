@@ -1,0 +1,17 @@
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Userstudy/
+trialsCount = 10
+redirectorSet = ThomasAPF
+resetterSet = SFR2G
+
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Userstudy/
+trialsCount = 10
+redirectorSet = Bypassing
+resetterSet = SeparateSpace

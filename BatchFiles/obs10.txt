@@ -1,0 +1,53 @@
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Obs10/
+trialsCount = 50
+redirectorSet = SeparateSpace
+resetterSet = SeparateSpace
+
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Obs10/
+trialsCount = 50
+redirectorSet = ThomasAPF
+resetterSet = SFR2G
+
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Obs10/
+trialsCount = 50
+redirectorSet = S2C
+resetterSet = SFR2G
+
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Obs10/
+trialsCount = 50
+redirectorSet = S2O
+resetterSet = SFR2G
+
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Obs10/
+trialsCount = 50
+redirectorSet = DeepLearning
+resetterSet = SFR2G
+
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Obs10/
+trialsCount = 50
+redirectorSet = Bypassing
+resetterSet = SeparateSpace

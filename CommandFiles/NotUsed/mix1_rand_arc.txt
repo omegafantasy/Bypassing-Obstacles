@@ -1,0 +1,280 @@
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 1394205706
+newUser
+randomSeed = 1909945917
+newUser
+randomSeed = 1341895416
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 1533488883
+newUser
+randomSeed = 1135144071
+newUser
+randomSeed = 278931655
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 752962866
+newUser
+randomSeed = 280031859
+newUser
+randomSeed = 1568493535
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 234205459
+newUser
+randomSeed = 483337505
+newUser
+randomSeed = 1560979002
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 1162104037
+newUser
+randomSeed = 586542582
+newUser
+randomSeed = 863988040
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 545938161
+newUser
+randomSeed = 1398426723
+newUser
+randomSeed = 1989798822
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 1998261228
+newUser
+randomSeed = 1062050565
+newUser
+randomSeed = 1691448758
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 299717308
+newUser
+randomSeed = 382338049
+newUser
+randomSeed = 871632830
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 1045369596
+newUser
+randomSeed = 161243992
+newUser
+randomSeed = 2107987838
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 907701626
+newUser
+randomSeed = 323740236
+newUser
+randomSeed = 588470384
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 115396612
+newUser
+randomSeed = 900125176
+newUser
+randomSeed = 13012344
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 196144474
+newUser
+randomSeed = 150855582
+newUser
+randomSeed = 1905281507
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 913207897
+newUser
+randomSeed = 1413251810
+newUser
+randomSeed = 398448825
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 1254269617
+newUser
+randomSeed = 1955537228
+newUser
+randomSeed = 806921358
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 1451992693
+newUser
+randomSeed = 1766576312
+newUser
+randomSeed = 1274206251
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 178584688
+newUser
+randomSeed = 1094431357
+newUser
+randomSeed = 858207704
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 1257603771
+newUser
+randomSeed = 2037677988
+newUser
+randomSeed = 1620660428
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 430535978
+newUser
+randomSeed = 640612636
+newUser
+randomSeed = 1076514790
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 926677116
+newUser
+randomSeed = 1094488398
+newUser
+randomSeed = 1527607868
+newUser
+end
+
+redirector = PhysicalARC
+resetter = PhysicalARC
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix1/SSR.txt
+pathLength = 400
+randomSeed = 470262586
+newUser
+randomSeed = 488119287
+newUser
+randomSeed = 973900079
+newUser
+end
+

@@ -1,0 +1,8 @@
+useRandomSeedSet = false
+sameRandomSeedForEachUser = false
+pathChoice = randomturn
+pathLengthSet = 400
+trackingSpaceDirPath = TrackingSpaces/Mix1/
+trialsCount = 20
+redirectorSet = PhysicalARC
+resetterSet = PhysicalARC

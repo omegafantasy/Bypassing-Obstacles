@@ -1,0 +1,200 @@
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 349010821
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 879044964
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 1320529391
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 718211664
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 1859721841
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 1542284476
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 158364708
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 440403070
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 2005735482
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 1838435197
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 825272606
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 2147411778
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 1156125842
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 188652936
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 685690886
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 2069532405
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 473841551
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 1854828078
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 147719403
+newUser
+end
+
+redirector = Bypassing
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Userstudy/userstudy.txt
+pathLength = 400
+randomSeed = 2073036109
+newUser
+end
+

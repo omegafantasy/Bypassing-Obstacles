@@ -1,0 +1,1000 @@
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 547135086
+newUser
+randomSeed = 18401167
+newUser
+randomSeed = 1065406939
+newUser
+randomSeed = 1334061218
+newUser
+randomSeed = 1976057774
+newUser
+randomSeed = 983706667
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1125196642
+newUser
+randomSeed = 310374527
+newUser
+randomSeed = 424214556
+newUser
+randomSeed = 1896323692
+newUser
+randomSeed = 1451394730
+newUser
+randomSeed = 788071966
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2129566351
+newUser
+randomSeed = 410865133
+newUser
+randomSeed = 1820053250
+newUser
+randomSeed = 1918869680
+newUser
+randomSeed = 1638860426
+newUser
+randomSeed = 1052574813
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 62678940
+newUser
+randomSeed = 2048505337
+newUser
+randomSeed = 1071325197
+newUser
+randomSeed = 1279281666
+newUser
+randomSeed = 701066096
+newUser
+randomSeed = 2111331265
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 49312917
+newUser
+randomSeed = 34083524
+newUser
+randomSeed = 1252257467
+newUser
+randomSeed = 1363273835
+newUser
+randomSeed = 2029686824
+newUser
+randomSeed = 546698714
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1927414569
+newUser
+randomSeed = 1965917596
+newUser
+randomSeed = 1520389906
+newUser
+randomSeed = 737838597
+newUser
+randomSeed = 435395624
+newUser
+randomSeed = 974307968
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2142667066
+newUser
+randomSeed = 751933974
+newUser
+randomSeed = 578880023
+newUser
+randomSeed = 1593678515
+newUser
+randomSeed = 23775259
+newUser
+randomSeed = 1278362607
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2109771114
+newUser
+randomSeed = 1866435860
+newUser
+randomSeed = 682854963
+newUser
+randomSeed = 440628428
+newUser
+randomSeed = 1194440093
+newUser
+randomSeed = 963614822
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1095309329
+newUser
+randomSeed = 1831150398
+newUser
+randomSeed = 887072216
+newUser
+randomSeed = 1549681429
+newUser
+randomSeed = 1215672769
+newUser
+randomSeed = 1038201540
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1414212925
+newUser
+randomSeed = 1415337067
+newUser
+randomSeed = 1464818718
+newUser
+randomSeed = 1101559321
+newUser
+randomSeed = 1284748301
+newUser
+randomSeed = 1941974250
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1878932847
+newUser
+randomSeed = 1909406454
+newUser
+randomSeed = 428171350
+newUser
+randomSeed = 2024999489
+newUser
+randomSeed = 2116392770
+newUser
+randomSeed = 1632960781
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1415165707
+newUser
+randomSeed = 1391727754
+newUser
+randomSeed = 2122953156
+newUser
+randomSeed = 845745282
+newUser
+randomSeed = 1923686261
+newUser
+randomSeed = 886926452
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 473694790
+newUser
+randomSeed = 616484072
+newUser
+randomSeed = 2024730078
+newUser
+randomSeed = 1940446237
+newUser
+randomSeed = 1316994199
+newUser
+randomSeed = 982113883
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1428476302
+newUser
+randomSeed = 1756168136
+newUser
+randomSeed = 987127078
+newUser
+randomSeed = 288642645
+newUser
+randomSeed = 267964506
+newUser
+randomSeed = 198536426
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1807110145
+newUser
+randomSeed = 377733140
+newUser
+randomSeed = 750244827
+newUser
+randomSeed = 482188366
+newUser
+randomSeed = 1471109319
+newUser
+randomSeed = 1167542204
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1656972897
+newUser
+randomSeed = 1041107745
+newUser
+randomSeed = 1614669320
+newUser
+randomSeed = 784389420
+newUser
+randomSeed = 1862229315
+newUser
+randomSeed = 261852452
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 850191257
+newUser
+randomSeed = 84771625
+newUser
+randomSeed = 1897526737
+newUser
+randomSeed = 1197377829
+newUser
+randomSeed = 1172946368
+newUser
+randomSeed = 1950195986
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 988145313
+newUser
+randomSeed = 249564047
+newUser
+randomSeed = 2054947784
+newUser
+randomSeed = 145764
+newUser
+randomSeed = 1075986639
+newUser
+randomSeed = 599188697
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1160955109
+newUser
+randomSeed = 1621250335
+newUser
+randomSeed = 98342868
+newUser
+randomSeed = 482704835
+newUser
+randomSeed = 1820566666
+newUser
+randomSeed = 1676063812
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 954847172
+newUser
+randomSeed = 1590290202
+newUser
+randomSeed = 1641441948
+newUser
+randomSeed = 229634924
+newUser
+randomSeed = 217889344
+newUser
+randomSeed = 1738659630
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 882715954
+newUser
+randomSeed = 932977341
+newUser
+randomSeed = 2068102082
+newUser
+randomSeed = 955410952
+newUser
+randomSeed = 1336256032
+newUser
+randomSeed = 882578516
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1419740779
+newUser
+randomSeed = 1836789017
+newUser
+randomSeed = 901738404
+newUser
+randomSeed = 1762877626
+newUser
+randomSeed = 1090254980
+newUser
+randomSeed = 1232222574
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1232070793
+newUser
+randomSeed = 231098473
+newUser
+randomSeed = 583221768
+newUser
+randomSeed = 1184414739
+newUser
+randomSeed = 1447980979
+newUser
+randomSeed = 18400459
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 291072289
+newUser
+randomSeed = 1806964381
+newUser
+randomSeed = 1449230148
+newUser
+randomSeed = 151056130
+newUser
+randomSeed = 1468716904
+newUser
+randomSeed = 1997342631
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1069199336
+newUser
+randomSeed = 1174268062
+newUser
+randomSeed = 1368024726
+newUser
+randomSeed = 2086089155
+newUser
+randomSeed = 1977025895
+newUser
+randomSeed = 271939113
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 767894151
+newUser
+randomSeed = 620556333
+newUser
+randomSeed = 2014365928
+newUser
+randomSeed = 158867107
+newUser
+randomSeed = 314661875
+newUser
+randomSeed = 239969027
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2029577551
+newUser
+randomSeed = 32734361
+newUser
+randomSeed = 1060791662
+newUser
+randomSeed = 1172369268
+newUser
+randomSeed = 727888632
+newUser
+randomSeed = 1386681269
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1844933940
+newUser
+randomSeed = 1545561130
+newUser
+randomSeed = 530995355
+newUser
+randomSeed = 1013603941
+newUser
+randomSeed = 1398117689
+newUser
+randomSeed = 1589468193
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1092842044
+newUser
+randomSeed = 1917916080
+newUser
+randomSeed = 142309223
+newUser
+randomSeed = 1623041489
+newUser
+randomSeed = 2086046282
+newUser
+randomSeed = 558408610
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 289429482
+newUser
+randomSeed = 731659824
+newUser
+randomSeed = 1611744084
+newUser
+randomSeed = 70759451
+newUser
+randomSeed = 2033695263
+newUser
+randomSeed = 161987970
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1662037437
+newUser
+randomSeed = 1481135271
+newUser
+randomSeed = 2007246769
+newUser
+randomSeed = 629799291
+newUser
+randomSeed = 994983475
+newUser
+randomSeed = 469698647
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1365340293
+newUser
+randomSeed = 1073203686
+newUser
+randomSeed = 2063920245
+newUser
+randomSeed = 343252741
+newUser
+randomSeed = 1302320835
+newUser
+randomSeed = 1415246618
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1105092444
+newUser
+randomSeed = 1266186668
+newUser
+randomSeed = 1079075749
+newUser
+randomSeed = 62548879
+newUser
+randomSeed = 453605837
+newUser
+randomSeed = 2070639421
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1466347276
+newUser
+randomSeed = 55595395
+newUser
+randomSeed = 1923634020
+newUser
+randomSeed = 1926040180
+newUser
+randomSeed = 993247111
+newUser
+randomSeed = 59109815
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 129629890
+newUser
+randomSeed = 1292336309
+newUser
+randomSeed = 681993698
+newUser
+randomSeed = 1455957318
+newUser
+randomSeed = 2016921272
+newUser
+randomSeed = 1730485698
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 775708590
+newUser
+randomSeed = 1958818100
+newUser
+randomSeed = 146522745
+newUser
+randomSeed = 898803692
+newUser
+randomSeed = 1657815478
+newUser
+randomSeed = 1394237008
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1526918147
+newUser
+randomSeed = 1215134649
+newUser
+randomSeed = 550577655
+newUser
+randomSeed = 61296708
+newUser
+randomSeed = 1795747295
+newUser
+randomSeed = 324914003
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1673031595
+newUser
+randomSeed = 749589303
+newUser
+randomSeed = 615595245
+newUser
+randomSeed = 874546252
+newUser
+randomSeed = 517949045
+newUser
+randomSeed = 819859614
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1626816508
+newUser
+randomSeed = 226880603
+newUser
+randomSeed = 278053987
+newUser
+randomSeed = 1688588310
+newUser
+randomSeed = 751895822
+newUser
+randomSeed = 1978099868
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 385837597
+newUser
+randomSeed = 1883480904
+newUser
+randomSeed = 487888160
+newUser
+randomSeed = 1948136954
+newUser
+randomSeed = 500169401
+newUser
+randomSeed = 1850130813
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1935188596
+newUser
+randomSeed = 2056866622
+newUser
+randomSeed = 1203766061
+newUser
+randomSeed = 333434547
+newUser
+randomSeed = 1715027798
+newUser
+randomSeed = 1490986382
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1268723873
+newUser
+randomSeed = 206288752
+newUser
+randomSeed = 1755854837
+newUser
+randomSeed = 1832322388
+newUser
+randomSeed = 683114379
+newUser
+randomSeed = 1385954835
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1520061766
+newUser
+randomSeed = 1405050568
+newUser
+randomSeed = 407331747
+newUser
+randomSeed = 1598720017
+newUser
+randomSeed = 253008585
+newUser
+randomSeed = 243657808
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1590998217
+newUser
+randomSeed = 1402567285
+newUser
+randomSeed = 774387264
+newUser
+randomSeed = 2009617731
+newUser
+randomSeed = 1976624457
+newUser
+randomSeed = 1790040669
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1452431711
+newUser
+randomSeed = 1234603927
+newUser
+randomSeed = 1206922278
+newUser
+randomSeed = 315906524
+newUser
+randomSeed = 512966095
+newUser
+randomSeed = 1921818221
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 906348848
+newUser
+randomSeed = 1726264840
+newUser
+randomSeed = 714965248
+newUser
+randomSeed = 847930489
+newUser
+randomSeed = 273591759
+newUser
+randomSeed = 1886364320
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1268631589
+newUser
+randomSeed = 1339597048
+newUser
+randomSeed = 1182045152
+newUser
+randomSeed = 1272092510
+newUser
+randomSeed = 1753306026
+newUser
+randomSeed = 311660293
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1211488424
+newUser
+randomSeed = 1941977767
+newUser
+randomSeed = 1691249871
+newUser
+randomSeed = 1039582799
+newUser
+randomSeed = 168526544
+newUser
+randomSeed = 1494328901
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1570768121
+newUser
+randomSeed = 934601227
+newUser
+randomSeed = 1630472319
+newUser
+randomSeed = 244230352
+newUser
+randomSeed = 357138737
+newUser
+randomSeed = 1245085763
+newUser
+end
+
+redirector = DeepLearning
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1075743549
+newUser
+randomSeed = 2073054512
+newUser
+randomSeed = 80242165
+newUser
+randomSeed = 1561209039
+newUser
+randomSeed = 1028486483
+newUser
+randomSeed = 480423871
+newUser
+end
+

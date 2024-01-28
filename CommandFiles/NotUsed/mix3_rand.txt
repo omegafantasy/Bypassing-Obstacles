@@ -1,0 +1,280 @@
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1077094260
+newUser
+randomSeed = 719121058
+newUser
+randomSeed = 2042999533
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 359552026
+newUser
+randomSeed = 2046027974
+newUser
+randomSeed = 54369734
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1806147987
+newUser
+randomSeed = 1260409543
+newUser
+randomSeed = 1125064998
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 654905349
+newUser
+randomSeed = 1470381222
+newUser
+randomSeed = 1076493722
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1530304527
+newUser
+randomSeed = 565086886
+newUser
+randomSeed = 1593176196
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 540459019
+newUser
+randomSeed = 1714929777
+newUser
+randomSeed = 1234342556
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1906202591
+newUser
+randomSeed = 1419490210
+newUser
+randomSeed = 383032240
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 992410193
+newUser
+randomSeed = 1143734685
+newUser
+randomSeed = 701066794
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1649650761
+newUser
+randomSeed = 621875309
+newUser
+randomSeed = 1369773080
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 130575767
+newUser
+randomSeed = 1674159975
+newUser
+randomSeed = 1389075093
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 85448805
+newUser
+randomSeed = 718407488
+newUser
+randomSeed = 2135378128
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1348154725
+newUser
+randomSeed = 1633842464
+newUser
+randomSeed = 386016277
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1316719645
+newUser
+randomSeed = 2039591770
+newUser
+randomSeed = 1217303953
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 795627936
+newUser
+randomSeed = 1727778551
+newUser
+randomSeed = 435511963
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1647244275
+newUser
+randomSeed = 1578118689
+newUser
+randomSeed = 137586290
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 229038559
+newUser
+randomSeed = 515729150
+newUser
+randomSeed = 2122982489
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1836627324
+newUser
+randomSeed = 1994443616
+newUser
+randomSeed = 616947670
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1589742023
+newUser
+randomSeed = 1116553848
+newUser
+randomSeed = 1111127453
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1435744366
+newUser
+randomSeed = 84684067
+newUser
+randomSeed = 1722870020
+newUser
+end
+
+redirector = SeparateSpace
+resetter = SeparateSpace
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Mix3/SRs.txt
+pathLength = 400
+randomSeed = 1341932739
+newUser
+randomSeed = 857384912
+newUser
+randomSeed = 1424152665
+newUser
+end
+

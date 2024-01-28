@@ -1,0 +1,1000 @@
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 731548919
+newUser
+randomSeed = 1784410669
+newUser
+randomSeed = 1231981887
+newUser
+randomSeed = 911419579
+newUser
+randomSeed = 1001694784
+newUser
+randomSeed = 992577922
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1013402534
+newUser
+randomSeed = 133262546
+newUser
+randomSeed = 364995115
+newUser
+randomSeed = 116519970
+newUser
+randomSeed = 1849819161
+newUser
+randomSeed = 1113901105
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2005679492
+newUser
+randomSeed = 1783250714
+newUser
+randomSeed = 1557254602
+newUser
+randomSeed = 1836144742
+newUser
+randomSeed = 796898437
+newUser
+randomSeed = 609798580
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 530611100
+newUser
+randomSeed = 537878097
+newUser
+randomSeed = 1146443665
+newUser
+randomSeed = 1262665679
+newUser
+randomSeed = 1040652810
+newUser
+randomSeed = 1208854596
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1863285151
+newUser
+randomSeed = 1772712399
+newUser
+randomSeed = 1607727111
+newUser
+randomSeed = 996010031
+newUser
+randomSeed = 34629662
+newUser
+randomSeed = 895113278
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 664235629
+newUser
+randomSeed = 1954181939
+newUser
+randomSeed = 1505024636
+newUser
+randomSeed = 1328458428
+newUser
+randomSeed = 464772063
+newUser
+randomSeed = 1462174656
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 339629189
+newUser
+randomSeed = 1069264721
+newUser
+randomSeed = 636984981
+newUser
+randomSeed = 380335988
+newUser
+randomSeed = 956945614
+newUser
+randomSeed = 1275764507
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 512323227
+newUser
+randomSeed = 1071654270
+newUser
+randomSeed = 1366063898
+newUser
+randomSeed = 1689323113
+newUser
+randomSeed = 1013586076
+newUser
+randomSeed = 1744252813
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1633158778
+newUser
+randomSeed = 608464756
+newUser
+randomSeed = 288833321
+newUser
+randomSeed = 838812115
+newUser
+randomSeed = 1089358508
+newUser
+randomSeed = 1645444369
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1596294505
+newUser
+randomSeed = 1616366887
+newUser
+randomSeed = 743757859
+newUser
+randomSeed = 23127291
+newUser
+randomSeed = 1195618075
+newUser
+randomSeed = 1376466032
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1532334458
+newUser
+randomSeed = 17392503
+newUser
+randomSeed = 98632884
+newUser
+randomSeed = 1617365484
+newUser
+randomSeed = 1599767988
+newUser
+randomSeed = 2043120869
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1756360116
+newUser
+randomSeed = 677221064
+newUser
+randomSeed = 1318478651
+newUser
+randomSeed = 95079946
+newUser
+randomSeed = 1496515553
+newUser
+randomSeed = 1875117363
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2120297246
+newUser
+randomSeed = 150275112
+newUser
+randomSeed = 1728416130
+newUser
+randomSeed = 2018162805
+newUser
+randomSeed = 750342452
+newUser
+randomSeed = 2116482187
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1990274345
+newUser
+randomSeed = 173962038
+newUser
+randomSeed = 759126323
+newUser
+randomSeed = 2010957945
+newUser
+randomSeed = 1510334900
+newUser
+randomSeed = 1573648553
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 606279957
+newUser
+randomSeed = 1972907161
+newUser
+randomSeed = 864823431
+newUser
+randomSeed = 2007063914
+newUser
+randomSeed = 1879647570
+newUser
+randomSeed = 995888823
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 718416797
+newUser
+randomSeed = 316501898
+newUser
+randomSeed = 2021130293
+newUser
+randomSeed = 1408002596
+newUser
+randomSeed = 995485177
+newUser
+randomSeed = 939553111
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1177131623
+newUser
+randomSeed = 1042441390
+newUser
+randomSeed = 1619369929
+newUser
+randomSeed = 1470426676
+newUser
+randomSeed = 2080446644
+newUser
+randomSeed = 336365012
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 425774162
+newUser
+randomSeed = 1538078832
+newUser
+randomSeed = 1259432850
+newUser
+randomSeed = 561199605
+newUser
+randomSeed = 865998516
+newUser
+randomSeed = 939083396
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2064511886
+newUser
+randomSeed = 1725615347
+newUser
+randomSeed = 866024435
+newUser
+randomSeed = 774759319
+newUser
+randomSeed = 180336593
+newUser
+randomSeed = 1021656037
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 617339709
+newUser
+randomSeed = 1668860160
+newUser
+randomSeed = 654541250
+newUser
+randomSeed = 672467978
+newUser
+randomSeed = 1011085527
+newUser
+randomSeed = 1774344474
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1178297438
+newUser
+randomSeed = 1896779849
+newUser
+randomSeed = 945057141
+newUser
+randomSeed = 322589828
+newUser
+randomSeed = 1524146796
+newUser
+randomSeed = 1180013655
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2001470717
+newUser
+randomSeed = 712294650
+newUser
+randomSeed = 1302273582
+newUser
+randomSeed = 788863019
+newUser
+randomSeed = 841031182
+newUser
+randomSeed = 1855384709
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 497112258
+newUser
+randomSeed = 519847669
+newUser
+randomSeed = 240999041
+newUser
+randomSeed = 422761311
+newUser
+randomSeed = 1585183783
+newUser
+randomSeed = 2119739715
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 314215703
+newUser
+randomSeed = 45080352
+newUser
+randomSeed = 1106908645
+newUser
+randomSeed = 2073223682
+newUser
+randomSeed = 2090035675
+newUser
+randomSeed = 154032223
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 129864388
+newUser
+randomSeed = 2091141125
+newUser
+randomSeed = 136165305
+newUser
+randomSeed = 999474256
+newUser
+randomSeed = 790662887
+newUser
+randomSeed = 1474108664
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 285011861
+newUser
+randomSeed = 504663645
+newUser
+randomSeed = 31355863
+newUser
+randomSeed = 1992509102
+newUser
+randomSeed = 292129238
+newUser
+randomSeed = 183666795
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1538791518
+newUser
+randomSeed = 103184334
+newUser
+randomSeed = 13932036
+newUser
+randomSeed = 79419195
+newUser
+randomSeed = 707212535
+newUser
+randomSeed = 153703866
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1784293461
+newUser
+randomSeed = 1275648867
+newUser
+randomSeed = 884584165
+newUser
+randomSeed = 1158123373
+newUser
+randomSeed = 277647061
+newUser
+randomSeed = 1807972571
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 780656996
+newUser
+randomSeed = 194578398
+newUser
+randomSeed = 83676377
+newUser
+randomSeed = 682285182
+newUser
+randomSeed = 358252275
+newUser
+randomSeed = 966005175
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 667435829
+newUser
+randomSeed = 1252557403
+newUser
+randomSeed = 1954227821
+newUser
+randomSeed = 791024918
+newUser
+randomSeed = 192725440
+newUser
+randomSeed = 1580489318
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1043848350
+newUser
+randomSeed = 1001996461
+newUser
+randomSeed = 2069115410
+newUser
+randomSeed = 1975648565
+newUser
+randomSeed = 503851158
+newUser
+randomSeed = 336367537
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1824028846
+newUser
+randomSeed = 652086803
+newUser
+randomSeed = 227718431
+newUser
+randomSeed = 57332246
+newUser
+randomSeed = 1031453440
+newUser
+randomSeed = 1481999449
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2105807679
+newUser
+randomSeed = 234796508
+newUser
+randomSeed = 1485351464
+newUser
+randomSeed = 953204779
+newUser
+randomSeed = 288930221
+newUser
+randomSeed = 814386808
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1416931705
+newUser
+randomSeed = 1119224662
+newUser
+randomSeed = 1813494064
+newUser
+randomSeed = 475676381
+newUser
+randomSeed = 218817260
+newUser
+randomSeed = 596084489
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1390432287
+newUser
+randomSeed = 1750210326
+newUser
+randomSeed = 146411370
+newUser
+randomSeed = 1212834335
+newUser
+randomSeed = 1325073273
+newUser
+randomSeed = 1187055482
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 376922621
+newUser
+randomSeed = 747766600
+newUser
+randomSeed = 2057942541
+newUser
+randomSeed = 580926365
+newUser
+randomSeed = 1183054492
+newUser
+randomSeed = 1852699721
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 232072103
+newUser
+randomSeed = 1956128543
+newUser
+randomSeed = 771797709
+newUser
+randomSeed = 548216628
+newUser
+randomSeed = 1481578174
+newUser
+randomSeed = 1773043905
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1580254140
+newUser
+randomSeed = 723324750
+newUser
+randomSeed = 1310608605
+newUser
+randomSeed = 749160575
+newUser
+randomSeed = 723961150
+newUser
+randomSeed = 123455767
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1628137358
+newUser
+randomSeed = 1861714697
+newUser
+randomSeed = 963627182
+newUser
+randomSeed = 1139841013
+newUser
+randomSeed = 1521576860
+newUser
+randomSeed = 1220984425
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1914478901
+newUser
+randomSeed = 568171969
+newUser
+randomSeed = 783179201
+newUser
+randomSeed = 1473030921
+newUser
+randomSeed = 585216278
+newUser
+randomSeed = 901124479
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 189956167
+newUser
+randomSeed = 611194511
+newUser
+randomSeed = 1474497177
+newUser
+randomSeed = 1188146596
+newUser
+randomSeed = 1827893272
+newUser
+randomSeed = 283686840
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1571540555
+newUser
+randomSeed = 1524881314
+newUser
+randomSeed = 1199225663
+newUser
+randomSeed = 1780135390
+newUser
+randomSeed = 721132676
+newUser
+randomSeed = 480285325
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 42589099
+newUser
+randomSeed = 868715077
+newUser
+randomSeed = 1785130135
+newUser
+randomSeed = 40450159
+newUser
+randomSeed = 1042905888
+newUser
+randomSeed = 1642976157
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1432959531
+newUser
+randomSeed = 641271712
+newUser
+randomSeed = 1026249176
+newUser
+randomSeed = 22955603
+newUser
+randomSeed = 1732180624
+newUser
+randomSeed = 1610842223
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 223428300
+newUser
+randomSeed = 1384565255
+newUser
+randomSeed = 1373673387
+newUser
+randomSeed = 836958116
+newUser
+randomSeed = 813931111
+newUser
+randomSeed = 614882523
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1069520520
+newUser
+randomSeed = 906524829
+newUser
+randomSeed = 1370912265
+newUser
+randomSeed = 2018156877
+newUser
+randomSeed = 358260461
+newUser
+randomSeed = 870383663
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 298546728
+newUser
+randomSeed = 392107544
+newUser
+randomSeed = 1042915125
+newUser
+randomSeed = 1026921765
+newUser
+randomSeed = 1325103667
+newUser
+randomSeed = 1346563483
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1071713751
+newUser
+randomSeed = 1995485615
+newUser
+randomSeed = 1140582021
+newUser
+randomSeed = 483341857
+newUser
+randomSeed = 1097251914
+newUser
+randomSeed = 652861783
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 1583337937
+newUser
+randomSeed = 1874028742
+newUser
+randomSeed = 1672749728
+newUser
+randomSeed = 1287686691
+newUser
+randomSeed = 40071390
+newUser
+randomSeed = 2091428213
+newUser
+end
+
+redirector = ThomasAPF
+resetter = SFR2G
+pathSeedChoice = randomturn
+trackingSpaceChoice = filepath
+trackingSpaceFilepath = TrackingSpaces/Separate6/6_squares.txt
+pathLength = 400
+randomSeed = 2022358950
+newUser
+randomSeed = 167000564
+newUser
+randomSeed = 1026497534
+newUser
+randomSeed = 2011138601
+newUser
+randomSeed = 964718296
+newUser
+randomSeed = 443328017
+newUser
+end
+
